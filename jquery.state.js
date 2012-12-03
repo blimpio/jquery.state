@@ -1,3 +1,9 @@
+/*
+ * jquery.state.js
+ * Author: Elving Rodriguez Rodriguez
+ * Date: Dec 3 2012
+ */
+
 ;(function ($, window, document, undefined) {
     $.fn.state = function(state) {
         if (state) {
